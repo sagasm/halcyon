@@ -76,6 +76,11 @@
         </repository>
 
         <repository>
+            <id>imagej.public</id>
+            <url>https://maven.imagej.net/content/groups/public</url>
+        </repository>
+
+        <repository>
             <id>bintray-clearcontrol-Halcyon</id>
             <name>bintray</name>
             <url>http://dl.bintray.com/clearcontrol/ClearControl/Halcyon</url>
